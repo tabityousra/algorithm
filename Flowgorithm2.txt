@@ -1,0 +1,5 @@
+Donner le première entier
+3
+Donner le deuxième entier
+2
+5
